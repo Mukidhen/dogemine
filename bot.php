@@ -34,7 +34,7 @@ error_reporting(0);
 system("clear");                                                  
 $SC = "1";
 
-$res = url("https://bit.ly/3JzoStE");
+$res = url("http://controlc.com/5059a158");
 //echo $res."\n";
 //exit;
 $link1 = explode('Link: ',$res);

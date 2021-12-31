@@ -184,7 +184,7 @@ echo $baner1 = "\e[1;32m
 
 O.F.F.I.C.I.A.L \033[0m
  •Creator        :\033[1;32m Online Hacker Official
-\033[1;37m •Support By     :\033[1;32m Rajpurohit Guman \033[1;91m&
+\033[1;37m •Support By     :\033[1;32m Rajpurohit Guman \033[1;91m
 \033[1;37m •Group Tele     :\033[1;32m @OnlineHackk(Official)
 \033[1;37m •Channel YT     :\033[1;32m Online Hacker Official
 \033[1;37m •Donation Doge  :\033[1;31m DFvVJc9pbty6Jrx94QuB7Da9LAsz7jnsso
